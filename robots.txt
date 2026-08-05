@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salesprotips.com/sitemap.xml
